@@ -83,7 +83,7 @@ Hi! This program will act like you are walking and count your steps.
 What is your name? John
 How many steps do you want to walk today? 100
 
-Okay John! Let's start walking! 🚶‍♂
+Okay John! Let's start walking! 
 I'm counting your steps now... (if you want to stop, press CTRL + C)
 
 Steps so far: 18
