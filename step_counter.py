@@ -29,7 +29,7 @@ except:
     exit()
 
 print()
-print("Okay " + name + "! Let's start walking! 🚶‍♂")
+print("Okay " + name + "! Let's start walking! ")
 print("I'm counting your steps now... (if you want to stop, press CTRL + C)")
 print()
 
@@ -100,5 +100,6 @@ except KeyboardInterrupt:
     print("You stopped walking early")
     print("You walked this many steps:", steps)
     print("You burned this many calories:", round(calories, 2))
+
 
 
